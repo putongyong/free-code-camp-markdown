@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/free-code-camp-markdown/static/css/main.073c9b0a.css",
+    "main.js": "/free-code-camp-markdown/static/js/main.52d17cf0.js",
+    "static/js/787.a3c8b4eb.chunk.js": "/free-code-camp-markdown/static/js/787.a3c8b4eb.chunk.js",
+    "index.html": "/free-code-camp-markdown/index.html",
+    "main.073c9b0a.css.map": "/free-code-camp-markdown/static/css/main.073c9b0a.css.map",
+    "main.52d17cf0.js.map": "/free-code-camp-markdown/static/js/main.52d17cf0.js.map",
+    "787.a3c8b4eb.chunk.js.map": "/free-code-camp-markdown/static/js/787.a3c8b4eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.52d17cf0.js"
+  ]
+}
